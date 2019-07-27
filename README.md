@@ -1,2 +1,6 @@
-# flask
-blog using flask
+# Flask-Blog
+###Features
+1. Create an account
+2. Write a blog 
+3. Update and delete blogs
+4. Get a password reset link via registered email
